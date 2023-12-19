@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T23:29:58 IST" name="Suite" finished-at="2023-12-19T23:30:37 IST" duration-ms="39433">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T23:29:58 IST" name="Test-1" finished-at="2023-12-19T23:30:09 IST" duration-ms="11242">
+      <class name="jaiwincode.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:jaiwincode.TestDemo@73e132e0]" started-at="2023-12-19T23:29:58 IST" name="titleCheck" finished-at="2023-12-19T23:30:08 IST" duration-ms="10250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- jaiwincode.TestDemo -->
+    </test> <!-- Test-1 -->
+    <test started-at="2023-12-19T23:29:58 IST" name="Test-0" finished-at="2023-12-19T23:30:23 IST" duration-ms="25413">
+      <class name="jaiwincode.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:jaiwincode.TestDemo@7cc9ce8]" started-at="2023-12-19T23:29:58 IST" name="titleCheck" finished-at="2023-12-19T23:30:22 IST" duration-ms="24410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- jaiwincode.TestDemo -->
+    </test> <!-- Test-0 -->
+    <test started-at="2023-12-19T23:30:26 IST" name="TestGoogle-1" finished-at="2023-12-19T23:30:37 IST" duration-ms="11018">
+      <class name="jaiwincode.TestDemo2">
+        <test-method signature="titleCheckGoogle()[pri:0, instance:jaiwincode.TestDemo2@63034ed1]" started-at="2023-12-19T23:30:26 IST" name="titleCheckGoogle" finished-at="2023-12-19T23:30:36 IST" duration-ms="10004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckGoogle -->
+      </class> <!-- jaiwincode.TestDemo2 -->
+    </test> <!-- TestGoogle-1 -->
+    <test started-at="2023-12-19T23:30:12 IST" name="TestGoogle-0" finished-at="2023-12-19T23:30:37 IST" duration-ms="25665">
+      <class name="jaiwincode.TestDemo2">
+        <test-method signature="titleCheckGoogle()[pri:0, instance:jaiwincode.TestDemo2@3b809711]" started-at="2023-12-19T23:30:12 IST" name="titleCheckGoogle" finished-at="2023-12-19T23:30:36 IST" duration-ms="24724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckGoogle -->
+      </class> <!-- jaiwincode.TestDemo2 -->
+    </test> <!-- TestGoogle-0 -->
+  </suite> <!-- Suite -->
+</testng-results>

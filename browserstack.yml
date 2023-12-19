@@ -1,0 +1,19 @@
+userName: jaiwinchaudhari_Wq28N4
+accessKey: kM8ufgvaM4YQLytu9MQ1
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Firefox
+    browserVersion: 119.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Chrome
+    browserVersion: 106.0
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
+debug: false
+networkLogs: false
+consoleLogs: errors
